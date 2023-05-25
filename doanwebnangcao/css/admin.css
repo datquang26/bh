@@ -1,0 +1,31 @@
+﻿
+
+/*GV-BA*/
+.box-manage{
+    padding: 30px 0px;
+}
+.box-manage-banner-all {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.title-banner-all {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    font-size: 35px;
+    font-weight: 700;
+    text-shadow: 7px 7px 7px gray;
+    font-family: Comic Sans, Comic Sans MS, cursive;
+    margin-bottom: 30px;
+}
+
+.box-gridview-banner-all{
+    
+     border: 1px solid gray;
+    border-radius: 10px ; 
+   
+   
+}
+
